@@ -1,6 +1,6 @@
 # osTicket-Creating-Working-and-Completing
 
-Last section for the osTicket. Great work! In this tutorial, we're going to configure create a sample ticket, work on it, and finally complete said ticket to get a general idea on how powerful osTicket is for buseinss enterprises.
+Last section for the osTicket. Great work! In this tutorial, we're going to configure create a sample ticket, work on it, and finally complete said ticket to get a general idea on how powerful osTicket is for business enterprises.
 
 <h3>Prologue</h3>
 If your Virtual Machine is turned off, login to Azure, turn the VM back on, and login to Remote Desktop with your credentials.
