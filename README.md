@@ -52,7 +52,7 @@ Use to same login info that we used to create Karen. From there, follow the scre
 <img width="1037" height="928" alt="image" src="https://github.com/user-attachments/assets/06966c74-95e6-431c-9123-e1337459c5fa" />
 
 
-Next, we're going to login the Admin in order to see the ticket that was submitted to the system here
+Next, we're going to login as the Admin John in order to see the ticket that was submitted to the system here.
 
 http://localhost/osTicket/scp/login.php 
 
