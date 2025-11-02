@@ -58,9 +58,10 @@ http://localhost/osTicket/scp/login.php
 
 *Note, if the username for John doesn't work, you may have to use the fake email address associated with the admin.
 
-As you can see, the ticket has been submitted for Admins and Agents to view.
+As you can see, the ticket has been submitted for Admins and Agents to view. Let's click on the ticket itself in red.
 
-![image](https://github.com/user-attachments/assets/4f01e382-16ed-4b21-9da1-949ce3293b8c)
+<img width="1208" height="380" alt="image" src="https://github.com/user-attachments/assets/aa70dd46-396f-41eb-a71f-8b911e2fe4a9" />
+
 
 Take a look at the various options we have. We can change the SLA priority level, ticket status, the due date, assign tickets to different teams, etc. 
 
