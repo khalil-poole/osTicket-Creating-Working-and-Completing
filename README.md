@@ -86,6 +86,22 @@ Take a look at the various options we have. We can change the SLA priority level
 <img width="810" height="316" alt="image" src="https://github.com/user-attachments/assets/282529d3-9913-40de-b0f8-2041b288e9b8" />
 
 
+Now, let's log out as John, and log in as Jane so we can assign the ticket just for her to specifically work on.
+
+<img width="1206" height="465" alt="image" src="https://github.com/user-attachments/assets/6121bfa5-1526-48bd-902f-599a7d6daa71" />
+
+Go inside the ticket, and click on "Online Banking" beside the "Assigned To" area. From there, click the dropdown box, click "Jane Doe", give a small description, and then click "Assign".
+
+<img width="1210" height="401" alt="image" src="https://github.com/user-attachments/assets/6ec3d1f8-77fd-45b3-a6c0-6a57b1c2e2bd" />
+
+<img width="1210" height="401" alt="image" src="https://github.com/user-attachments/assets/88fa58e8-ddbf-4a65-b0f0-c01c91b15d8e" />
+
+<img width="810" height="376" alt="image" src="https://github.com/user-attachments/assets/209b3696-5f6f-4ed1-882f-085e19d896e4" />
+
+<img width="816" height="362" alt="image" src="https://github.com/user-attachments/assets/63795c39-10f6-4ec4-894a-94de450c116d" />
+
+
+
 We can also reply to Karen, or internally where only the Admin and Agents can see. Feel free to explore and when you're ready let's close the ticket.
 
 ![image](https://github.com/user-attachments/assets/a4ad69e3-67f5-4bb9-9375-a43261752a7c)
