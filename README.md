@@ -95,7 +95,7 @@ As shown below, you can see the resolved ticket, and how many tickets have been 
 
 
 
-*Creator note* - don't pay attention to the discrepancy of the dates within the ticket screenshots as there have been some minor changes that I had to do when I realized that I was logged in as the admin the whole time instead of an agent.
+*Creator note* - don't pay attention to the discrepancy of the dates / ticket numbers within the screenshots as there have been some minor changes that I had to do when I realized that I was logged in as the admin the whole time instead of an agent.
 
 
 With that said, congratulations for making it to the very end of the osTicket guide! Feel free to play around with creating tickets, changing agent settings, and more. Ticketing System is vital for businesses big and small to ensure operations are in working order. By communicating with end users and prioritizing what can impact a business, you will have guaranteed success in this field!
