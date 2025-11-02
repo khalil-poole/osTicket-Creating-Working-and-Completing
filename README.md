@@ -7,6 +7,12 @@ If your Virtual Machine is turned off, login to Azure, turn the VM back on, and 
 
 Afterwards, we'll open up osTicket and continue where we left off.
 
+Admin/Analyst Login Page:
+http://localhost/osTicket/scp/login.php 
+
+End Users osTicket URL:
+http://localhost/osTicket 
+
 <h3>Create and Work</h3>
 
 Login to osTicket at http://localhost/osTicket/ and create a new ticket
