@@ -120,6 +120,9 @@ Let's change the status of the ticket to "Resolved"
 
 Feel free to leave an optional note in the new window if you like and then click "Close".
 
+<img width="816" height="287" alt="image" src="https://github.com/user-attachments/assets/b24fc33a-379e-40ea-b75b-cb920797749d" />
+
+
 As shown below, you can see the resolved ticket, and how many tickets have been resolved in a day, week, month, etc. as well
 
 ![image](https://github.com/user-attachments/assets/74e96f78-465e-413d-8fd8-1f72449e76bc)
