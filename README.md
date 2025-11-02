@@ -112,7 +112,7 @@ We can also reply to Karen, or internally where only the Admin and Agents can se
 Let's change the status of the ticket to "Resolved"
 
 
-![image](https://github.com/user-attachments/assets/d5a997fc-4b0c-4902-9a8a-a3e02056bca5)
+<img width="1220" height="353" alt="image" src="https://github.com/user-attachments/assets/c97715d2-4cdd-4346-b7d1-a6d3b6cf0ea1" />
 
 
 ![image](https://github.com/user-attachments/assets/7220e019-9afc-4fb6-a3d0-247a90369235)
