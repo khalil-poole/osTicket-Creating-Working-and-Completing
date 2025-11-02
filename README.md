@@ -7,15 +7,43 @@ If your Virtual Machine is turned off, login to Azure, turn the VM back on, and 
 
 Afterwards, we'll open up osTicket and continue where we left off.
 
-Admin/Analyst Login Page:
+But before we start creating tickets, there's some minor changes that needs to be taken care of first. 
+
+So let's go to the Admin/Analyst Login Page and login with the osTicket admin credentials used in previous sections:
 http://localhost/osTicket/scp/login.php 
 
-End Users osTicket URL:
-http://localhost/osTicket 
+From there, let's go into the Admin page itself by clicking on the "Admin Panel" located on the top right corner.
+
+<img width="1217" height="463" alt="image" src="https://github.com/user-attachments/assets/c91dd5a5-6640-4906-a9a2-2bcd6cebdba9" />
+
+Next, we'll highlight the Agents tab, and then click Departments as shown.
+
+<img width="1216" height="317" alt="image" src="https://github.com/user-attachments/assets/b867c03a-a959-492c-af3b-a555c8825ee2" />
+
+Once in the Departments page, click the checkbox beside the word "Maintenance", then click "More". A dropdown option will pop up and from there click "Delete" and then click "Yes, Do It!"
+
+<img width="1216" height="509" alt="image" src="https://github.com/user-attachments/assets/0456413d-d5c2-40f9-b103-0e888c2de66a" />
+
+<img width="620" height="266" alt="image" src="https://github.com/user-attachments/assets/36cd2326-d0fe-4a4c-914e-1ec9909942a8" />
+
+The reason for the deletion is because created support tickets would've been auto-assigned to that particular department which is what we don't want due to the priority level that Maintenance had.
+
+
+Upon deletion, click on "Support / SysAdmins"
+
+<img width="1220" height="518" alt="image" src="https://github.com/user-attachments/assets/be087cd5-adf9-42e2-9cf0-0d99563e41a7" />
+
+Once inside, set the Parent to "Top Level Department", scroll to the bottom of the page, and then click "Save Changes".
+
+<img width="1169" height="486" alt="image" src="https://github.com/user-attachments/assets/407e78d9-1756-4c55-931b-51f36eed0478" />
+
+
+Now we are fully ready to tackle tickets!
+
 
 <h3>Create and Work</h3>
 
-Login to osTicket at http://localhost/osTicket/ and create a new ticket
+Login to osTicket at http://localhost/osTicket/ and create a new ticket as an end-user.
 
 ![image](https://github.com/user-attachments/assets/2c46d46e-8077-489a-a06e-e295555aa97c)
 
