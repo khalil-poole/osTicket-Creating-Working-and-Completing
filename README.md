@@ -65,11 +65,17 @@ As you can see, the ticket has been submitted for Admins and Agents to view. Let
 
 Take a look at the various options we have. We can change the SLA priority level, ticket status, the due date, assign tickets to different teams, etc. so let's start making some edits.
 
-First we'll tackle the priority level by changing the Default SLA to Sev-A inside the "SLA Plan" dropdown box and giving it a description, then click Update.
+1. First we'll tackle the priority level by changing the Default SLA to Sev-A inside the "SLA Plan" dropdown box and giving it a description, then click Update.
 
 <img width="1202" height="550" alt="image" src="https://github.com/user-attachments/assets/3abe3a31-2e9c-4950-9a0f-e6e7bad1215b" />
 
 <img width="836" height="345" alt="image" src="https://github.com/user-attachments/assets/9da5bf79-7068-4f1c-bc07-114a1cf52430" />
+
+2. Change the Help Topic so that it's less generalized, this of course will vary depending on the organization. So click "Report a Problem" and then we going to change the Help Topic inside the dropdown box from "Report a Problem" to "Report a Problem / Business Critical Outage". Give it a description, and then click Update.
+
+<img width="1210" height="406" alt="image" src="https://github.com/user-attachments/assets/16779fb3-477a-490f-a834-34f206d72336" />
+
+<img width="803" height="311" alt="image" src="https://github.com/user-attachments/assets/ca75a4eb-b6aa-4fd5-85b3-41ae2d56959f" />
 
 
 
