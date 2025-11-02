@@ -1,4 +1,4 @@
-# osTicket-Creating-Working-and-Completing
+# osTicket Lifecycle Examples
 
 Last section for the osTicket. Great work! In this tutorial, we're going to configure create a sample ticket, work on it, and finally complete said ticket to get a general idea on how powerful osTicket is for business enterprises.
 
@@ -52,7 +52,7 @@ Use to same login info that we used to create Karen. From there, follow the scre
 <img width="1037" height="928" alt="image" src="https://github.com/user-attachments/assets/06966c74-95e6-431c-9123-e1337459c5fa" />
 
 
-Next, we're going to login as the Admin John using past credentials in order to see the ticket that was submitted to the system here.
+Next, we're going to login as the Agent John using past credentials in order to see the ticket that was submitted to the system here.
 
 http://localhost/osTicket/scp/login.php 
 
