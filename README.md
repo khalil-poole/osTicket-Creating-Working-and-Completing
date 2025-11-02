@@ -63,7 +63,15 @@ As you can see, the ticket has been submitted for Admins and Agents to view. Let
 <img width="1208" height="380" alt="image" src="https://github.com/user-attachments/assets/aa70dd46-396f-41eb-a71f-8b911e2fe4a9" />
 
 
-Take a look at the various options we have. We can change the SLA priority level, ticket status, the due date, assign tickets to different teams, etc. 
+Take a look at the various options we have. We can change the SLA priority level, ticket status, the due date, assign tickets to different teams, etc. so let's start making some edits.
+
+First we'll tackle the priority level by changing the Default SLA to Sev-A inside the "SLA Plan" dropdown box and giving it a description, then click Update.
+
+<img width="1202" height="550" alt="image" src="https://github.com/user-attachments/assets/3abe3a31-2e9c-4950-9a0f-e6e7bad1215b" />
+
+<img width="836" height="345" alt="image" src="https://github.com/user-attachments/assets/9da5bf79-7068-4f1c-bc07-114a1cf52430" />
+
+
 
 We can also reply to Karen, or internally where only the Admin and Agents can see. Feel free to explore and when you're ready let's close the ticket.
 
