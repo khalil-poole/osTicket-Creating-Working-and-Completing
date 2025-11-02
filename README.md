@@ -92,3 +92,9 @@ As shown below, you can see the resolved ticket, and how many tickets have been 
 
 
 With that said, congratulations for making it to the very end of the osTicket guide! Feel free to play around with creating tickets, changing agent settings, and more. Ticketing System is vital for businesses big and small to ensure operations are in working order. By communicating with end users and prioritizing what can impact a business, you will have guaranteed success in this field!
+
+
+
+Remember, do not forget to stop the VM!! 
+
+![image](https://github.com/user-attachments/assets/92abfa3a-0dc5-4284-8fde-ab364f9f546d)
