@@ -77,6 +77,13 @@ Take a look at the various options we have. We can change the SLA priority level
 
 <img width="803" height="311" alt="image" src="https://github.com/user-attachments/assets/ca75a4eb-b6aa-4fd5-85b3-41ae2d56959f" />
 
+3. Let's assign the ticket to a team by clicking on "Unassigned" beside the "Assigned To" area. Click the dropdown box, and then click on "Online Banking" under the "Teams" section inside of the dropdown box. Give it a description, and then click "Assign".
+
+<img width="1209" height="349" alt="image" src="https://github.com/user-attachments/assets/ebb77477-71fa-4677-9a56-c2f5ba9e4af6" />
+
+<img width="796" height="338" alt="image" src="https://github.com/user-attachments/assets/7d6afd9a-a348-4935-9b9d-534fd3d0cce6" />
+
+<img width="810" height="316" alt="image" src="https://github.com/user-attachments/assets/282529d3-9913-40de-b0f8-2041b288e9b8" />
 
 
 We can also reply to Karen, or internally where only the Admin and Agents can see. Feel free to explore and when you're ready let's close the ticket.
