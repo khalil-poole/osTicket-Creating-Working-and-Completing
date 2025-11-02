@@ -101,15 +101,9 @@ Go inside the ticket, and click on "Online Banking" beside the "Assigned To" are
 <img width="816" height="362" alt="image" src="https://github.com/user-attachments/assets/63795c39-10f6-4ec4-894a-94de450c116d" />
 
 
-
-We can also reply to Karen, or internally where only the Admin and Agents can see. Feel free to explore and when you're ready let's close the ticket.
-
-![image](https://github.com/user-attachments/assets/a4ad69e3-67f5-4bb9-9375-a43261752a7c)
-
-
 <h3>Closing</h3>
 
-Let's type what is in the example and then click "Post Reply"
+We can also reply to Karen, or internally where only the Admin and Agents can see. Feel free to explore and when you're ready let's close the ticket, and then click "Post Reply"
 
 
 ![image](https://github.com/user-attachments/assets/e6852a51-77a4-40d3-92f9-c94ee02ee626)
