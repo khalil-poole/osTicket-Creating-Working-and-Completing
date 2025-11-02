@@ -49,7 +49,8 @@ Login to osTicket at http://localhost/osTicket/ and create a new ticket as an en
 
 Use to same login info that we used to create Karen. From there, follow the screenshot below and then click "Create Ticket" for submission.
 
-![image](https://github.com/user-attachments/assets/c91e5059-7e99-4258-bba7-dfc9b4e2f0e2)
+<img width="1037" height="928" alt="image" src="https://github.com/user-attachments/assets/06966c74-95e6-431c-9123-e1337459c5fa" />
+
 
 Next, we're going to login the Admin in order to see the ticket that was submitted to the system here
 
